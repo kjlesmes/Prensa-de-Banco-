@@ -83,11 +83,12 @@ Elemento de union y pivote.
 - Los archivos de dibujo (.SLDDRW) contienen vistas ortogonales, dimensiones y tolerancias
 - El ensamblaje principal referencia todas las piezas individuales
 - Respetar la numeracion de piezas para trazabilidad
-- el acceso a este proyecto completo esta optimizado en mi Drive personal debido a la limitacion de subida de archivos de >25MB de Github. no todos los archivos estan en este repo.
+- el acceso a este proyecto completo esta optimizado en mi Drive personal debido a la limitacion de subida de archivos de >25MB de Github. no todos los archivos estan en este repo. https://drive.google.com/drive/folders/11UeaP7FTuXcWD-dK5FMXiK2jintAx_Ri
 
 ## Autor
 
 Ing. Karen lesmes
 
 ---
+
 
